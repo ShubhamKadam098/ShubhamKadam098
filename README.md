@@ -10,15 +10,15 @@
 
 <h3 align="left">About Me 👨‍💻</h3>
 
-- I’m currently working on [Flare: Streaming Services](https://github.com/aadityadike/Flare)
+- I’m currently working on [NexSync](https://github.com/ShubhamKadam098/NexSync)
 
-- I’m currently learning **Spring Boot, Next JS**
+- I’m currently learning **Next JS & Docker**
 
 - I’m looking to collaborate on [Blockchain Based Voting System](https://github.com/ShubhamKadam098/Blockchain_Voting_System)
 
 - How to reach me **kadamshubham098@gmail.com**
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/1ZApANv5lDNQr_g6En9sbA3hwVaNWAAXe/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/drive/folders/1-q2q-jJT--AuOjirjNJVwAJjMvknQ4Yw?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
